@@ -1,0 +1,21 @@
+{
+    "name": "mtoto/yii2-role",
+    "description": "Authorization rbac",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","authorization","rbac"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "miriam",
+            "email": "mtoto6469@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "mtoto\\role\\": "src/"
+        }
+    }
+}
