@@ -3,7 +3,7 @@
 namespace mtoto\role\controllers;
 
 use Yii;
-use app\modules\role\models\Role;
+use mtoto\role\models\Role;
 use yii\data\ActiveDataProvider;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;

@@ -4,7 +4,7 @@ namespace mtoto\role\models;
 
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
-use app\modules\role\models\AuthAssignment;
+use mtoto\role\models\AuthAssignment;
 
 /**
  * AuthAssignmentSearch represents the model behind the search form of `app\modules\role\models\AuthAssignment`.

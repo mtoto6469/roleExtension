@@ -1,6 +1,6 @@
 <?php
 
-namespace mroro\role\models;
+namespace mtoto\role\models;
 
 use Yii;
 use yii\db\Query;

@@ -3,8 +3,8 @@
 namespace mtoto\role\controllers;
 
 use Yii;
-use app\modules\role\models\AuthAssignment;
-use app\modules\role\models\AuthAssignmentSearch;
+use mtoto\role\models\AuthAssignment;
+use mtoto\role\models\AuthAssignmentSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
